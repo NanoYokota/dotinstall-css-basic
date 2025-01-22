@@ -12,10 +12,9 @@ p {
   /* border-width: 8px;
   border-style: solid;
   border-color: blue; */
-  border-top-width: 8px;
-  border-top-style: dashed;
-  border-top-color: blue;
-  border-bottom-width: 8px;
-  border-bottom-style: double;
-  border-bottom-color: blue;
+  /* border: 8px solid blue; */
+  /* border-top: 8px dashed blue;
+  border-bottom: 8px double blue; */
+  border-style: solid;
+  border: 8px solid blue;
 }
